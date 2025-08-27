@@ -1,2 +1,22 @@
-# To-Do-App
-A basic To-Do List application built using only HTML and JavaScript — no CSS or frameworks. Focuses on core JavaScript functionality like DOM manipulation and local Storage.
+# To-Do App (JavaScript Only)
+
+This is a simple To-Do List App built using only HTML and JavaScript, with no CSS styling. It focuses purely on JavaScript functionality like DOM manipulation and local storage — ideal for beginners learning how to build dynamic web apps with raw JavaScript.
+
+### Project Goals:
+-Practice core JavaScript (no frameworks, no styling)
+-Focus on logic, structure, and interactivity
+-Learn how to manipulate the DOM and store data locally
+
+### Features:
+-Add tasks
+-Delete individual tasks
+-Persistent data using localStorage
+
+### How to Run:
+-Download or clone the repository.
+-Open To-DoApp.html in any modern browser.
+-Use the app directly — no server or setup needed.
+
+### Notes:
+-No CSS is used — the layout and components are unstyled and purely functional.
+-Great for learning how JavaScript alone can build interactive web apps.
